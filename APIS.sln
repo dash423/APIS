@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIS", "APIS\APIS.csproj", "{172EFCB9-BFF4-4578-8246-06C2C11A75E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{2AB3AF58-C2AE-4F72-91E7-F80074C424AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172EFCB9-BFF4-4578-8246-06C2C11A75E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172EFCB9-BFF4-4578-8246-06C2C11A75E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172EFCB9-BFF4-4578-8246-06C2C11A75E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172EFCB9-BFF4-4578-8246-06C2C11A75E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB3AF58-C2AE-4F72-91E7-F80074C424AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB3AF58-C2AE-4F72-91E7-F80074C424AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB3AF58-C2AE-4F72-91E7-F80074C424AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB3AF58-C2AE-4F72-91E7-F80074C424AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
